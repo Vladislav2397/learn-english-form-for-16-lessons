@@ -1,0 +1,601 @@
+{
+    "data": [
+        {
+            "title": "to start",
+            "forms": [
+                {
+                    "label": "Я начинаю.",
+                    "answers": [
+                        "I start"
+                    ]
+                },
+                {
+                    "label": "Она начинает?",
+                    "answers": [
+                        "Does she start?"
+                    ]
+                },
+                {
+                    "label": "Они не начинают.",
+                    "answers": [
+                        "They don't start",
+                        "They do not start"
+                    ]
+                },
+                {
+                    "label": "Ты начнёшь?",
+                    "answers": [
+                        "Will you start?"
+                    ]
+                },
+                {
+                    "label": "Мы не начнём.",
+                    "answers": [
+                        "We will not start",
+                        "We won't start"
+                    ]
+                },
+                {
+                    "label": "Он начнёт.",
+                    "answers": [
+                        "He will start"
+                    ]
+                },
+                {
+                    "label": "Мы начали.",
+                    "answers": [
+                        "We did start"
+                    ]
+                },
+                {
+                    "label": "Он не начал.",
+                    "answers": [
+                        "He didn't start",
+                        "He did not start"
+                    ]
+                },
+                {
+                    "label": "Она начала?",
+                    "answers": [
+                        "Did she start?"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "to finish",
+            "forms": [
+                {
+                    "label": "Он закончит.",
+                    "answers": [
+                        "He will finish."
+                    ]
+                },
+                {
+                    "label": "Они закончат?",
+                    "answers": [
+                        "Will they finish?"
+                    ]
+                },
+                {
+                    "label": "Я не закончу.",
+                    "answers": [
+                        "I will not finish",
+                        "I won't finish"
+                    ]
+                },
+                {
+                    "label": "Мы закончили?",
+                    "answers": [
+                        "Did we finish?"
+                    ]
+                },
+                {
+                    "label": "Она не закончила.",
+                    "answers": [
+                        "She didn't finish",
+                        "She did not finish"
+                    ]
+                },
+                {
+                    "label": "Ты закончил.",
+                    "answers": [
+                        "You finished"
+                    ]
+                },
+                {
+                    "label": "Я заканчиваю.",
+                    "answers": [
+                        "I finish"
+                    ]
+                },
+                {
+                    "label": "Они не заканчивают.",
+                    "answers": [
+                        "They do not finish",
+                        "They don't finish"
+                    ]
+                },
+                {
+                    "label": "Мы заканчиваем?",
+                    "answers": [
+                        "Do we finish?"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "to love",
+            "forms": [
+                {
+                    "label": "Они не любили.",
+                    "answers": [
+                        "They did not love",
+                        "They didn't love"
+                    ]
+                },
+                {
+                    "label": "Я буду любить.",
+                    "answers": [
+                        "I will love"
+                    ]
+                },
+                {
+                    "label": "Он любит?",
+                    "answers": [
+                        "Does he love?"
+                    ]
+                },
+                {
+                    "label": "Он не любит.",
+                    "answers": [
+                        "He does not love",
+                        "He doesn't love"
+                    ]
+                },
+                {
+                    "label": "Мы любили.",
+                    "answers": [
+                        "We loved"
+                    ]
+                },
+                {
+                    "label": "Они любили?",
+                    "answers": [
+                        "Did they love?"
+                    ]
+                },
+                {
+                    "label": "Ты не будешь любить.",
+                    "answers": [
+                        "You will not love",
+                        "You won't love"
+                    ]
+                },
+                {
+                    "label": "Она будет любить?",
+                    "answers": [
+                        "Will she love?"
+                    ]
+                },
+                {
+                    "label": "Я не люблю.",
+                    "answers": [
+                        "I do not love",
+                        "I don't love"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "to help",
+            "forms": [
+                {
+                    "label": "Ты не помог.",
+                    "answers": [
+                        "You did not help",
+                        "You didn't help"
+                    ]
+                },
+                {
+                    "label": "Он помог?",
+                    "answers": [
+                        "Did he help?"
+                    ]
+                },
+                {
+                    "label": "Я помог.",
+                    "answers": [
+                        "I helped"
+                    ]
+                },
+                {
+                    "label": "Мы помогаем?",
+                    "answers": [
+                        "Are we helping?"
+                    ]
+                },
+                {
+                    "label": "Они не помогают.",
+                    "answers": [
+                        "They do not help",
+                        "They don't help"
+                    ]
+                },
+                {
+                    "label": "Я помогаю.",
+                    "answers": [
+                        "I help"
+                    ]
+                },
+                {
+                    "label": "Она поможет?",
+                    "answers": [
+                        "Will she help?"
+                    ]
+                },
+                {
+                    "label": "Ты не поможешь.",
+                    "answers": [
+                        "You will not help",
+                        "You won't help"
+                    ]
+                },
+                {
+                    "label": "Мы будем помогать.",
+                    "answers": [
+                        "We will be helping"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "to live",
+            "forms": [
+                {
+                    "label": "Мы не жили.",
+                    "answers": [
+                        "We did not live",
+                        "We didn't live"
+                    ]
+                },
+                {
+                    "label": "Ты жил?",
+                    "answers": [
+                        "Did you live?"
+                    ]
+                },
+                {
+                    "label": "Я жил.",
+                    "answers": [
+                        "I lived"
+                    ]
+                },
+                {
+                    "label": "Он живёт.",
+                    "answers": [
+                        "He lives"
+                    ]
+                },
+                {
+                    "label": "Она не живёт.",
+                    "answers": [
+                        "She does not live",
+                        "She doesn't live"
+                    ]
+                },
+                {
+                    "label": "Они живут?",
+                    "answers": [
+                        "Do they live?"
+                    ]
+                },
+                {
+                    "label": "Ты будешь жить.",
+                    "answers": [
+                        "You will live"
+                    ]
+                },
+                {
+                    "label": "Они будут жить?",
+                    "answers": [
+                        "Will they live?"
+                    ]
+                },
+                {
+                    "label": "Я буду жить.",
+                    "answers": [
+                        "I will live"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "to hope",
+            "forms": [
+                {
+                    "label": "Он будет надеяться?",
+                    "answers": [
+                        "Will he hope?"
+                    ]
+                },
+                {
+                    "label": "Мы не будем надеяться.",
+                    "answers": [
+                        "We will not hope",
+                        "We won't hope"
+                    ]
+                },
+                {
+                    "label": "Я буду надеяться.",
+                    "answers": [
+                        "I will hope"
+                    ]
+                },
+                {
+                    "label": "Ты не надеешься.",
+                    "answers": [
+                        "You do not hope",
+                        "You don't hope"
+                    ]
+                },
+                {
+                    "label": "Они надеются?",
+                    "answers": [
+                        "Do they hope?"
+                    ]
+                },
+                {
+                    "label": "Она надеется.",
+                    "answers": [
+                        "She hopes"
+                    ]
+                },
+                {
+                    "label": "Он не надеялся.",
+                    "answers": [
+                        "He did not hope",
+                        "He didn't hope"
+                    ]
+                },
+                {
+                    "label": "Мы надеялись?",
+                    "answers": [
+                        "Did we hope?"
+                    ]
+                },
+                {
+                    "label": "Ты надеялся.",
+                    "answers": [
+                        "You hoped"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "to walk",
+            "forms": [
+                {
+                    "label": "Я не гулял.",
+                    "answers": [
+                        "I did not walk",
+                        "I didn't walk"
+                    ]
+                },
+                {
+                    "label": "Мы гуляем?",
+                    "answers": [
+                        "Are we walking?"
+                    ]
+                },
+                {
+                    "label": "Он гулял?",
+                    "answers": [
+                        "Did he walk?"
+                    ]
+                },
+                {
+                    "label": "Он не гуляет.",
+                    "answers": [
+                        "He does not walk",
+                        "He doesn't walk"
+                    ]
+                },
+                {
+                    "label": "Я пойду пешком.",
+                    "answers": [
+                        "I will walk"
+                    ]
+                },
+                {
+                    "label": "Она гуляет.",
+                    "answers": [
+                        "She is walking"
+                    ]
+                },
+                {
+                    "label": "Вы будете гулять?",
+                    "answers": [
+                        "Will you walk?"
+                    ]
+                },
+                {
+                    "label": "Они шли пешком.",
+                    "answers": [
+                        "They walked"
+                    ]
+                },
+                {
+                    "label": "Мы не будем гулять.",
+                    "answers": [
+                        "We will not walk",
+                        "We won't walk"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "to want",
+            "forms": [
+                {
+                    "label": "Мы хотели.",
+                    "answers": [
+                        "We wanted"
+                    ]
+                },
+                {
+                    "label": "Она хотела?",
+                    "answers": [
+                        "Did she want?"
+                    ]
+                },
+                {
+                    "label": "Ты не хотел.",
+                    "answers": [
+                        "You did not want",
+                        "You didn't want"
+                    ]
+                },
+                {
+                    "label": "Я захочу?",
+                    "answers": [
+                        "Will I want?"
+                    ]
+                },
+                {
+                    "label": "Он не захочет.",
+                    "answers": [
+                        "He will not want",
+                        "He won't want"
+                    ]
+                },
+                {
+                    "label": "Мы захотим.",
+                    "answers": [
+                        "We will want"
+                    ]
+                },
+                {
+                    "label": "Хочу ли я?",
+                    "answers": [
+                        "Do I want?"
+                    ]
+                },
+                {
+                    "label": "Она хочет.",
+                    "answers": [
+                        "She wants"
+                    ]
+                },
+                {
+                    "label": "Он не хочет.",
+                    "answers": [
+                        "He does not want",
+                        "He doesn't want"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Различные глаголы",
+            "forms": [
+                {
+                    "label": "He starts.",
+                    "answers": [
+                        "Он начинает."
+                    ]
+                },
+                {
+                    "label": "Will they want?",
+                    "answers": [
+                        "Они будут хотеть?"
+                    ]
+                },
+                {
+                    "label": "You don't help.",
+                    "answers": [
+                        "Ты не помогаешь."
+                    ]
+                },
+                {
+                    "label": "Do you love?",
+                    "answers": [
+                        "Ты любишь?"
+                    ]
+                },
+                {
+                    "label": "He doesn't love.",
+                    "answers": [
+                        "Он не любит."
+                    ]
+                },
+                {
+                    "label": "They didn't hope.",
+                    "answers": [
+                        "Они не надеялись."
+                    ]
+                },
+                {
+                    "label": "We didn't want.",
+                    "answers": [
+                        "Мы не хотели."
+                    ]
+                },
+                {
+                    "label": "Did they help?",
+                    "answers": [
+                        "Они помогли?"
+                    ]
+                },
+                {
+                    "label": "I will hope.",
+                    "answers": [
+                        "Я буду надеяться."
+                    ]
+                },
+                {
+                    "label": "Did he walk?",
+                    "answers": [
+                        "Он гулял?"
+                    ]
+                },
+                {
+                    "label": "Will she start?",
+                    "answers": [
+                        "Она начнет?"
+                    ]
+                },
+                {
+                    "label": "We will not finish.",
+                    "answers": [
+                        "Мы не закончим."
+                    ]
+                },
+                {
+                    "label": "They will walk.",
+                    "answers": [
+                        "Они будут гулять."
+                    ]
+                },
+                {
+                    "label": "We will help.",
+                    "answers": [
+                        "Мы поможем."
+                    ]
+                },
+                {
+                    "label": "Did you hope?",
+                    "answers": [
+                        "Ты надеялся?"
+                    ]
+                },
+                {
+                    "label": "He loved.",
+                    "answers": [
+                        "Он любил."
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "sass": "^1.83.4",
+    "vitepress": "latest"
+  },
+  "dependencies": {
+    "ant-design-vue": "^4.2.6"
+  }
+}
