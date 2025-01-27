@@ -1,7 +1,7 @@
 <template>
   <div>
     <div v-for="(word, index) in data">
-      <h2>{{index + 1}}. {{word.title}}</h2>
+      <h3>{{index + 1}}. {{word.title}}</h3>
          <QuestionsLayout v-for="item in word.forms" :key="item.label">
             <QuestionForm
                 :key="item.label"

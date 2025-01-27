@@ -10,23 +10,15 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Lessons", link: "/lessons/1" },
-
-      // {
-      //   text: 'Dropdown Menu',
-      //   items: [
-      //     { text: 'Item A', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
-
-      // ...
     ],
 
     sidebar: [
       {
         // text: 'Guide',
-        items: [{ text: "Lesson 1", link: "/lessons/1" }],
+        items: [
+          { text: "Lesson 1", link: "/lessons/1" },
+          { text: "Lesson 2", link: "/lessons/2" },
+        ],
       },
     ],
   },
